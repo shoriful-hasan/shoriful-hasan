@@ -10,7 +10,7 @@ Hi this is shoriful hasan i am web designer and learner i love to myself and lov
 Skills: HTML/CSS/JS
 
 - 🔭 I’m currently working on My own business 
-- 🌱 I’m currently learning peopleNtech 
+- 🌱 I’m currently learning programming hero 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about javascript 
 
